@@ -8,8 +8,8 @@ from dotenv import load_dotenv
 
 # Get credentials from environment variables
 load_dotenv()
-ENDPOINT = 'https://demofaceapi1.cognitiveservices.azure.com/'
-KEY = 'f88254f97e2a4f8da905ad0832102d8c'
+ENDPOINT = 'end'
+KEY = '02d8cjdfjdcksofmdjrkcmad'
 PERSON_GROUP_ID = os.getenv('PERSON_GROUP_ID')
 
 # Create an authenticated face client
